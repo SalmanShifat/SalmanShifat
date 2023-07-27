@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SalmanShifat
-- 👀 I’m interested in Coding, DSA, Mathematics.
+- 👀 I’m interested in Coding, DSA, Astro, Mathematics.
 - 🌱 I’m currently learning DSA.
 - 📫 @SalmanShifat
 
